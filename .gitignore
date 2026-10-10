@@ -24,3 +24,6 @@ results/
 
 # Ferramentas locais de IA e editor
 .opencode/
+
+# Regra do GitHub: pesquisa, prompt, plano e especificação ficam só na pasta local.
+/docs/SPEC.md

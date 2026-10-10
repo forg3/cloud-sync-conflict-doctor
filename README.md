@@ -137,7 +137,7 @@ the final requirement to formally close GATE 6.
 
 ## Development
 
-This project runs via **Hermes Kanban** (board `conflict-doctor`): cards with Definition of Done, explicit dependencies, formal review gates, and auditable handoffs. Full specification at [`docs/SPEC.md`](docs/SPEC.md) and architecture decisions at [`docs/adr/`](docs/adr/).
+This project runs via **Hermes Kanban** (board `conflict-doctor`): cards with Definition of Done, explicit dependencies, formal review gates, and auditable handoffs. Architecture decisions at [`docs/adr/`](docs/adr/).
 
 ```bash
 # build and tests (requires .NET 8 SDK)
